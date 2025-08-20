@@ -11,6 +11,5 @@
 - I like physics and have published several papers in physics journals. You can find my publications here: https://scholar.google.com/citations?user=M0Gb3O8AAAAJ&hl=en
 
 - Fun fact: Because of to surface tension, the pressure inside a small water droplet, say one micron in diameter, is higher than one atmosphere pressure. 
-- 
-- 
+  
 --> Reach me at drzehaopan@gmail.com
